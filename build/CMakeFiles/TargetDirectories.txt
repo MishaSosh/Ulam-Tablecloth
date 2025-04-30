@@ -1,0 +1,3 @@
+/home/mishasosh/Documents/NewProject/build/CMakeFiles/Ulam.dir
+/home/mishasosh/Documents/NewProject/build/CMakeFiles/edit_cache.dir
+/home/mishasosh/Documents/NewProject/build/CMakeFiles/rebuild_cache.dir
